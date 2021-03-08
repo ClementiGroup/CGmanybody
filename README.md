@@ -14,3 +14,5 @@
 
 	- 4_Potential_Decomp: calculate the CG potential predicted by many-body models. 
 
+- The original all-atom trajecotry of Chignolin for training the CG model can be accessed through the link: https://figshare.com/articles/dataset/Chignolin_Simulations/13858898
+
