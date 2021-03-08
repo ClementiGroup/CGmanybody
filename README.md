@@ -1,4 +1,4 @@
-# Many-body Coarse Graining Force Field
+# Many-body Coarse Graining Force Field (for chignolin)
 
 - This repository contains codes to construct many-body coarse grained molecular model of chignolin, including 2-body, 2,3-body, 2,3,4-body, 2,3,4C-body, and 2,3,4C,5-body, where 'C' represent chiral. 
 
