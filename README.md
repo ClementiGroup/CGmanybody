@@ -1,10 +1,10 @@
 # Many-body Coarse Graining Force Field
 
-This repository contains codes to construct many-body coarse grained molecular model of chignolin, including 2-body, 2,3-body, 2,3,4-body, 2,3,4C-body, and 2,3,4C,5-body, where 'C' represent chiral. 
+- This repository contains codes to construct many-body coarse grained molecular model of chignolin, including 2-body, 2,3-body, 2,3,4-body, 2,3,4C-body, and 2,3,4C,5-body, where 'C' represent chiral. 
 
-Since the implementation of differemnt order of many-body required different codes, different many-body models are in different sub folders.
+- Since the implementation of differemnt order of many-body required different codes, different many-body models are in different sub folders.
 
-In each many-body models, there are 4 individual procedures:
+- In each many-body models, there are 4 individual procedures:
 
 	- 1_CV: conduct cross-validation, and traning of the model.
 
